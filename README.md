@@ -1,4 +1,4 @@
-![Header](./capsuleblue.svg)
+![Header](./assets/capsuleblue.svg)
 
 # Hi, I'm Mathangi 👋
 
