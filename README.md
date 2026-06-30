@@ -4,9 +4,11 @@
 
 ## Who I am
 
-I'm a technical writer who is also a CS engineer; my combined love for writing and technology pulled me towards technical writing and I fell in love with it. To write about a feature or a product, I think about the systems first — how the pieces connect, where things break, what a user actually needs to know versus what's just noise. That background shapes how I approach documentation: structure before sentences, architecture before pages.
+I'm a technical writer who is also a CS engineer; my combined love for writing and technology pulled me towards technical writing. To write about a feature or a product, I think about the systems first — how the pieces connect, where things break, what a user actually needs to know versus what's just noise. That background shapes how I approach documentation: structure before sentences, architecture before pages.
 
-I'm a curious learner and CS is a vast ocean with endless horizons. While I can't cross the ocean, I can tackle one backwater at a time; I'm currently learning Python and PostgreSQL. (Yes. to code by hand. In 2026. I know.)
+## What I'm working on
+
+I'm a curious learner; In the ocean that is CS, I'm trying to tackle one backwater at a time. I'm currently learning Python and PostgreSQL the traditional way.
 I'm drawn to databases and system design as concepts — they help me understand how the entire machinery works rather than the just the gears I'm handed.
 
 ---
@@ -56,6 +58,3 @@ _Learning:_
 iMovie · ScreenStudio · HeyGen · ElevenLabs
 
 ---
-
-_Thanks for stopping by!_
-
