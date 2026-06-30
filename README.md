@@ -6,7 +6,7 @@
 
 I'm a technical writer who is also a CS engineer; my combined love for writing and technology pulled me towards technical writing. To write about a feature or a product, I think about the systems first — how the pieces connect, where things break, what a user actually needs to know versus what's just noise. That background shapes how I approach documentation: structure before sentences, architecture before pages.
 
-## What I'm working on
+## What I do
 
 I'm a curious learner; In the ocean that is CS, I'm trying to tackle one backwater at a time. I'm currently learning Python and PostgreSQL the traditional way.
 I'm drawn to databases and system design as concepts — they help me understand how the entire machinery works rather than the just the gears I'm handed.
